@@ -13,7 +13,7 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,7 +94,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 22:19:47 UTC
+ Last Updated on 06/12/2023 01:17:10 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
