@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 36.1 kB Used in GitHub's Storage 
+> 📦 36.0 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2024
  > 
@@ -95,7 +95,7 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2024 14:07:59 UTC
+ Last Updated on 06/01/2024 16:08:47 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
