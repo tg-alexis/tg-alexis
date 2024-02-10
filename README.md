@@ -21,8 +21,6 @@
 
 > 📦 36.4 kB Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -94,7 +92,7 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2024 14:08:47 UTC
+ Last Updated on 10/02/2024 16:09:23 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
