@@ -21,6 +21,8 @@
 
 > 📦 70.7 kB Used in GitHub's Storage 
  > 
+> 🏆 2,846 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -92,7 +94,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 10:11:09 UTC
+ Last Updated on 16/11/2024 12:14:09 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
