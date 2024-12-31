@@ -13,21 +13,21 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C544%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C545%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 91.3 kB Used in GitHub's Storage 
+> 📦 94.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3,217 Contributions in the Year 2024
+> 🏆 3,221 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -80,11 +80,11 @@ Mac                      9 hrs 26 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               51 repos            ██████████████░░░░░░░░░░░   56.67 % 
-Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+TypeScript               52 repos            ██████████████░░░░░░░░░░░   57.14 % 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 
@@ -94,7 +94,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 12:15:08 UTC
+ Last Updated on 31/12/2024 14:10:52 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
