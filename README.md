@@ -56,17 +56,16 @@ Sunday                   295 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Prisma                   1 min               ████████████████████████░   97.69 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rep-fest-api             1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +85,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 00:33:31 UTC
+ Last Updated on 17/05/2025 02:40:04 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
