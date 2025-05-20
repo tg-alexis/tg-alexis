@@ -13,13 +13,15 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 132.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 581 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,14 +33,14 @@
 
 ```text
 🌞 Morning                6625 commits        ████████░░░░░░░░░░░░░░░░░   31.41 % 
-🌆 Daytime                10632 commits       █████████████░░░░░░░░░░░░   50.41 % 
+🌆 Daytime                10633 commits       █████████████░░░░░░░░░░░░   50.41 % 
 🌃 Evening                3446 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 🌙 Night                  388 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3934 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Monday                   3935 commits        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 Tuesday                  4031 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
 Wednesday                3854 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 Thursday                 4349 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
@@ -90,7 +92,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 08:15:16 UTC
+ Last Updated on 20/05/2025 10:13:29 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
