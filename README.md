@@ -13,7 +13,7 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C843%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,16 +56,23 @@ Sunday                   295 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   50 mins             ██████████████████░░░░░░░   70.71 % 
+Dart                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  50 mins             ██████████████████░░░░░░░   70.71 % 
+Cursor                   20 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sms-platform             50 mins             ██████████████████░░░░░░░   70.71 % 
+rep-fest-api             11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+atouts_mobile_apps       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +92,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 00:35:48 UTC
+ Last Updated on 20/05/2025 02:42:10 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
