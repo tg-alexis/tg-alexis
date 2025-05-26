@@ -21,6 +21,8 @@
 
 > 📦 132.0 kB Used in GitHub's Storage 
  > 
+> 🏆 581 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -92,7 +94,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2025 22:12:02 UTC
+ Last Updated on 26/05/2025 00:35:57 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
