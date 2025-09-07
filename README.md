@@ -13,13 +13,15 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C109%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C107%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 142.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,095 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,7 +91,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2025 22:10:59 UTC
+ Last Updated on 07/09/2025 00:35:15 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
