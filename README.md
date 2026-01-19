@@ -13,7 +13,7 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C358%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C359%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,11 +77,11 @@ Mac                      4 hrs 28 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               57 repos            ███████████████░░░░░░░░░░   58.16 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Dart                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               56 repos            ██████████████░░░░░░░░░░░   57.73 % 
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Dart                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 
@@ -91,7 +91,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2026 14:19:56 UTC
+ Last Updated on 19/01/2026 16:16:08 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
