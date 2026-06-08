@@ -13,8 +13,6 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C628%20hrs%2054%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -94,7 +92,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 22:33:17 UTC
+ Last Updated on 08/06/2026 01:15:55 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
