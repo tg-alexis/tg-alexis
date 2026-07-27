@@ -13,7 +13,7 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C825%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C824%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,25 +56,25 @@ Sunday                   428 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               5 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.15 % 
-YAML                     2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-Terraform                50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+TypeScript               5 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.91 % 
+YAML                     2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Terraform                50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 Prisma                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 9 mins        ███████████████░░░░░░░░░░   60.09 % 
-Claude Code              4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.91 % 
+VS Code                  6 hrs 8 mins        ███████████████░░░░░░░░░░   59.78 % 
+Claude Code              4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.22 % 
 
 🐱‍💻 Projects: 
-rep-fest-api-v2          3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
-terraform-katika         2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-benevoles-republic-festiv1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-katika-bridge-api        59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-devops                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+rep-fest-api-v2          3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+terraform-katika         2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+benevoles-republic-festiv1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+katika-bridge-api        59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+devops                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 💻 Operating System: 
-Mac                      10 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +94,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 23:09:08 UTC
+ Last Updated on 27/07/2026 03:40:50 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
