@@ -13,9 +13,9 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C817%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C821%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-208%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,48 +58,48 @@ Sunday                   428 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       ██████████████████░░░░░░░   72.77 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Prisma                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-XML                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               11 hrs 6 mins       ███████████████████░░░░░░   76.50 % 
+Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Prisma                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 51 mins       █████████████░░░░░░░░░░░░   53.09 % 
-VS Code                  6 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.91 % 
+Claude Code              7 hrs 27 mins       █████████████░░░░░░░░░░░░   51.39 % 
+VS Code                  7 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.61 % 
 
 🐱‍💻 Projects: 
-rep-fest-api-v2          7 hrs 36 mins       ███████████████░░░░░░░░░░   58.93 % 
-benevoles-republic-festiv2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-republic-festival-front-v1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-devops                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-katika-bridge-api        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+rep-fest-api-v2          9 hrs 50 mins       █████████████████░░░░░░░░   67.72 % 
+benevoles-republic-festiv2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+republic-festival-front-v1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+terraform-katika         23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+katika-bridge-api        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Mac                      12 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 25 mins (72.98%)
+⏱ AI Coding Time: 9 hrs 59 mins (68.79%)
 
-✍️ 8,392 lines written by AI, 270 lines written by hand (96.88% AI-written)
+✍️ 8,869 lines written by AI, 325 lines written by hand (96.47% AI-written)
 
-🔤 334,155,306 Input Tokens, 554,319 Output Tokens
+🔤 358,832,153 Input Tokens, 610,601 Output Tokens
 
-💵 $1012.10 Estimated AI Cost This Week
+💵 $1085.54 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 162 AI Prompts
+🧠 22 AI Sessions, 134 AI Prompts
 
-Sonnet                   9,072 lines         █████████████████████████   100.00 % 
+Sonnet                   9,662 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.88% of written lines came from AI
-📄 Detailed Prompter — average 713 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.96% of changed lines were hand-edited
+🤖 AI-Driven — 96.47% of written lines came from AI
+📄 Detailed Prompter — average 877 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:03:09 UTC
+ Last Updated on 29/07/2026 06:42:05 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
