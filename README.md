@@ -23,7 +23,7 @@
 
 > 📦 167.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,586 Contributions in the Year 2026
+> 🏆 1,591 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,18 +34,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3872 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-🌆 Daytime                7091 commits        █████████████░░░░░░░░░░░░   50.36 % 
-🌃 Evening                2644 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-🌙 Night                  473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+🌞 Morning                3872 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌆 Daytime                7091 commits        █████████████░░░░░░░░░░░░   50.34 % 
+🌃 Evening                2644 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+🌙 Night                  478 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2712 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Tuesday                  2433 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Monday                   2712 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Tuesday                  2438 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
 Wednesday                2359 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Thursday                 2738 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Thursday                 2738 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
 Friday                   2656 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
 Saturday                 738 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 Sunday                   444 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
@@ -58,50 +58,52 @@ Sunday                   444 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               14 hrs 46 mins      ██████████████████░░░░░░░   72.80 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+TypeScript               12 hrs 53 mins      █████████████████░░░░░░░░   68.75 % 
+Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Prisma                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 34 mins      ██████████████░░░░░░░░░░░   57.09 % 
-VS Code                  8 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
+Claude Code              10 hrs 6 mins       █████████████░░░░░░░░░░░░   53.90 % 
+VS Code                  8 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.08 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-rep-fest-api-v2          12 hrs 25 mins      ███████████████░░░░░░░░░░   61.22 % 
-republic-festival-backoff3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-republic-festival-front-v2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-rep-fest-pass-generator  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-ex                       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+rep-fest-api-v2          12 hrs 11 mins      ████████████████░░░░░░░░░   65.00 % 
+republic-festival-front-v2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+rep-fest-pass-generator  1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+republic-festival-backoff1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+ex                       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Mac                      20 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 13 mins (79.93%)
+⏱ AI Coding Time: 14 hrs 44 mins (78.61%)
 
-✍️ 19,713 lines written by AI, 544 lines written by hand (97.31% AI-written)
+✍️ 20,537 lines written by AI, 483 lines written by hand (97.7% AI-written)
 
-🔤 365,763,540 Input Tokens, 1,615,369 Output Tokens
+🔤 227,622,040 Input Tokens, 1,259,626 Output Tokens
 
-💵 $885.24 Estimated AI Cost This Week
+💵 $637.10 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 318 AI Prompts
+🧠 35 AI Sessions, 227 AI Prompts
 
-Sonnet                   19,456 lines        ██████████████████████░░░   89.41 % 
-Opus                     2,305 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Sonnet                   12,515 lines        ██████████████░░░░░░░░░░░   55.49 % 
+Opus                     10,040 lines        ███████████░░░░░░░░░░░░░░   44.51 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.31% of written lines came from AI
-📄 Detailed Prompter — average 901 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 3.49% of changed lines were hand-edited
+🤖 AI-Driven — 97.7% of written lines came from AI
+📄 Detailed Prompter — average 907 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +123,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 22:47:26 UTC
+ Last Updated on 11/08/2026 02:07:25 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
