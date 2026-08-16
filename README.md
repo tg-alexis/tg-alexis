@@ -31,6 +31,80 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3902 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌆 Daytime                7140 commits        █████████████░░░░░░░░░░░░   50.29 % 
+🌃 Evening                2669 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+🌙 Night                  488 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2719 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Tuesday                  2471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Wednesday                2406 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Thursday                 2750 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Friday                   2665 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Saturday                 744 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Sunday                   444 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Abidjan
+
+💬 Programming Languages: 
+TypeScript               20 hrs 19 mins      ████████████████████░░░░░   79.81 % 
+Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Prisma                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+
+🔥 Editors: 
+Claude Code              16 hrs 5 mins       ████████████████░░░░░░░░░   63.18 % 
+VS Code                  9 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.25 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+🐱‍💻 Projects: 
+rep-fest-api-v2          16 hrs 28 mins      ████████████████░░░░░░░░░   64.70 % 
+republic-festival-backoff4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+republic-festival-front-v1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+rep-fest-pass-generator  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+repfest-groups-follow    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+
+💻 Operating System: 
+Mac                      25 hrs 27 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 hrs 59 mins (82.45%)
+
+✍️ 25,635 lines written by AI, 471 lines written by hand (98.2% AI-written)
+
+🔤 8,312,484 Input Tokens, 1,241,501 Output Tokens
+
+💵 $246.57 Estimated AI Cost This Week
+
+🧠 56 AI Sessions, 201 AI Prompts
+
+Opus                     26,315 lines        █████████████████████████   99.91 % 
+Codex-Vscode             24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.2% of written lines came from AI
+📄 Detailed Prompter — average 915 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.1% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -48,7 +122,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 03:09:05 UTC
+ Last Updated on 16/08/2026 04:45:40 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
