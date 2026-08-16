@@ -13,9 +13,9 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C872%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C873%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -31,81 +31,6 @@
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3902 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-🌆 Daytime                7140 commits        █████████████░░░░░░░░░░░░   50.29 % 
-🌃 Evening                2669 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-🌙 Night                  488 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2719 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Tuesday                  2471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Wednesday                2406 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Thursday                 2750 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Friday                   2665 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Saturday                 744 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Sunday                   444 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Abidjan
-
-💬 Programming Languages: 
-TypeScript               21 hrs 29 mins      ████████████████████░░░░░   79.94 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Prisma                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-
-🔥 Editors: 
-Claude Code              16 hrs 50 mins      ████████████████░░░░░░░░░   62.64 % 
-VS Code                  9 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-🐱‍💻 Projects: 
-rep-fest-api-v2          16 hrs 31 mins      ███████████████░░░░░░░░░░   61.48 % 
-republic-festival-backoff4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-republic-festival-front-v3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-rep-fest-pass-generator  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-repfest-groups-follow    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-
-💻 Operating System: 
-Mac                      26 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 22 hrs 10 mins (82.48%)
-
-✍️ 24,242 lines written by AI, 530 lines written by hand (97.86% AI-written)
-
-🔤 8,513,451 Input Tokens, 1,277,553 Output Tokens
-
-💵 $250.28 Estimated AI Cost This Week
-
-🧠 59 AI Sessions, 219 AI Prompts
-
-Opus                     24,580 lines        █████████████████████████   98.12 % 
-Sonnet                   448 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Codex-Vscode             24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.86% of written lines came from AI
-📄 Detailed Prompter — average 908 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.52% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -123,7 +48,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 01:42:45 UTC
+ Last Updated on 16/08/2026 03:09:05 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
