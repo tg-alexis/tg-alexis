@@ -31,6 +31,79 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3711 commits        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+🌆 Daytime                6850 commits        █████████████░░░░░░░░░░░░   50.10 % 
+🌃 Evening                2612 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌙 Night                  501 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2631 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Tuesday                  2391 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Wednesday                2317 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Thursday                 2582 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Friday                   2556 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Saturday                 739 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Sunday                   458 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Abidjan
+
+💬 Programming Languages: 
+TypeScript               2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
+YAML                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Terraform                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+
+🔥 Editors: 
+VS Code                  3 hrs               █████████████░░░░░░░░░░░░   51.76 % 
+Claude Code              2 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.21 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🐱‍💻 Projects: 
+rep-fest-api-v2          2 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.92 % 
+terraform-katika         1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+republic-festival-front-v57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+youyou-o-plus-backend    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+katika-bridge-backoffice 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+
+💻 Operating System: 
+Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 16 mins (56.48%)
+
+✍️ 4,547 lines written by AI, 67 lines written by hand (98.55% AI-written)
+
+🔤 1,553,617 Input Tokens, 254,701 Output Tokens
+
+💵 $50.85 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 29 AI Prompts
+
+Opus                     4,607 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.55% of written lines came from AI
+📝 Concise Prompter — average 402 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.79% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -48,7 +121,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 03:04:19 UTC
+ Last Updated on 22/08/2026 04:42:04 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
