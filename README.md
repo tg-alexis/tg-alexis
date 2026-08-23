@@ -58,50 +58,50 @@ Sunday                   458 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
-YAML                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Terraform                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+TypeScript               1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   33.66 % 
+YAML                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Terraform                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████░░░░░░░░░░░░   51.76 % 
-Claude Code              2 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.21 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  2 hrs 50 mins       ██████████████░░░░░░░░░░░   57.40 % 
+Claude Code              2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.56 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-rep-fest-api-v2          2 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.92 % 
-terraform-katika         1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-republic-festival-front-v57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-youyou-o-plus-backend    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-katika-bridge-backoffice 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+rep-fest-api-v2          1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   39.95 % 
+terraform-katika         1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   31.82 % 
+republic-festival-front-v57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+youyou-o-plus-backend    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+katika-bridge-backoffice 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 16 mins (56.48%)
+⏱ AI Coding Time: 2 hrs 32 mins (51.49%)
 
-✍️ 4,547 lines written by AI, 67 lines written by hand (98.55% AI-written)
+✍️ 2,143 lines written by AI, 52 lines written by hand (97.63% AI-written)
 
-🔤 1,553,617 Input Tokens, 254,701 Output Tokens
+🔤 1,272,922 Input Tokens, 179,725 Output Tokens
 
-💵 $50.85 Estimated AI Cost This Week
+💵 $40.38 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 29 AI Prompts
+🧠 5 AI Sessions, 23 AI Prompts
 
-Opus                     4,607 lines         █████████████████████████   100.00 % 
+Opus                     2,201 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.55% of written lines came from AI
-📝 Concise Prompter — average 402 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.79% of changed lines were hand-edited
+🤖 AI-Driven — 97.63% of written lines came from AI
+📝 Concise Prompter — average 449 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 4.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +121,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 01:44:46 UTC
+ Last Updated on 23/08/2026 03:13:18 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
