@@ -13,9 +13,9 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C878%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -37,14 +37,14 @@
 🌞 Morning                3747 commits        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
 🌆 Daytime                6888 commits        ████████████░░░░░░░░░░░░░   49.69 % 
 🌃 Evening                2684 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-🌙 Night                  542 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+🌙 Night                  543 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   2721 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Tuesday                  2416 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Wednesday                2317 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Tuesday                  2417 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Wednesday                2317 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 Thursday                 2596 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 Friday                   2581 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 Saturday                 739 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
@@ -58,50 +58,48 @@ Sunday                   491 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   33.37 % 
-YAML                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Terraform                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+YAML                     2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
+Terraform                1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+TypeScript               1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+HCL                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       ██████████████░░░░░░░░░░░   57.77 % 
-Claude Code              2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.20 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  6 hrs 41 mins       ████████████████████░░░░░   78.90 % 
+Claude Code              1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 
 🐱‍💻 Projects: 
-rep-fest-api-v2          1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   39.61 % 
-terraform-katika         1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   31.55 % 
-republic-festival-front-v57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-youyou-o-plus-backend    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-katika-bridge-backoffice 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+terraform-katika         3 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.55 % 
+katika-front-web-client  3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.84 % 
+rep-fest-api-v2          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+katika-bridge-backoffice 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+youyou-o-plus-backend    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (51.05%)
+⏱ AI Coding Time: 3 hrs 21 mins (39.53%)
 
-✍️ 2,143 lines written by AI, 52 lines written by hand (97.63% AI-written)
+✍️ 475 lines written by AI, 192 lines written by hand (71.21% AI-written)
 
-🔤 1,272,922 Input Tokens, 179,725 Output Tokens
+🔤 820,315 Input Tokens, 159,257 Output Tokens
 
-💵 $40.38 Estimated AI Cost This Week
+💵 $38.14 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 23 AI Prompts
+🧠 8 AI Sessions, 25 AI Prompts
 
-Opus                     2,201 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     480 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.63% of written lines came from AI
-📝 Concise Prompter — average 449 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.76% of changed lines were hand-edited
+🤖 AI-Driven — 71.21% of written lines came from AI
+📝 Concise Prompter — average 333 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 44.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +119,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 01:33:14 UTC
+ Last Updated on 25/08/2026 03:09:05 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
