@@ -34,21 +34,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3751 commits        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-🌆 Daytime                6907 commits        ████████████░░░░░░░░░░░░░   49.70 % 
-🌃 Evening                2695 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-🌙 Night                  544 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+🌞 Morning                3620 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+🌆 Daytime                6810 commits        █████████████░░░░░░░░░░░░   51.20 % 
+🌃 Evening                2465 commits        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+🌙 Night                  405 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2721 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Tuesday                  2432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Wednesday                2337 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Thursday                 2596 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Friday                   2581 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Saturday                 739 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Sunday                   491 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Monday                   2568 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Tuesday                  2320 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Wednesday                2213 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Thursday                 2422 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Friday                   2583 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Saturday                 708 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Sunday                   486 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 ```
 
 
@@ -106,11 +106,11 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               72 repos            █████████████████░░░░░░░░   66.67 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Dart                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               57 repos            █████████████████████░░░░   82.61 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
@@ -120,7 +120,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 16:56:32 UTC
+ Last Updated on 26/08/2026 19:58:06 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
