@@ -13,9 +13,9 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,48 +58,49 @@ Sunday                   492 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-YAML                     2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-Terraform                1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-TypeScript               1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-HCL                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+YAML                     3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Terraform                2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+TypeScript               2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+HCL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 41 mins       ████████████████████░░░░░   78.90 % 
-Claude Code              1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+VS Code                  9 hrs 27 mins       ███████████████████░░░░░░   75.92 % 
+Claude Code              2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
 
 🐱‍💻 Projects: 
-terraform-katika         3 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.55 % 
-katika-front-web-client  3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.84 % 
-rep-fest-api-v2          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-katika-bridge-backoffice 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-youyou-o-plus-backend    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+terraform-katika         6 hrs 17 mins       █████████████░░░░░░░░░░░░   50.57 % 
+katika-front-web-client  3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+sirh-frontend            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+sirh-api                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+katika-bridge-backoffice 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 💻 Operating System: 
-Mac                      8 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 21 mins (39.53%)
+⏱ AI Coding Time: 5 hrs 6 mins (41.04%)
 
-✍️ 475 lines written by AI, 192 lines written by hand (71.21% AI-written)
+✍️ 586 lines written by AI, 453 lines written by hand (56.4% AI-written)
 
-🔤 820,315 Input Tokens, 159,257 Output Tokens
+🔤 1,139,867 Input Tokens, 289,021 Output Tokens
 
-💵 $38.14 Estimated AI Cost This Week
+💵 $56.28 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 25 AI Prompts
+🧠 20 AI Sessions, 72 AI Prompts
 
-Opus                     480 lines           █████████████████████████   100.00 % 
+Opus                     591 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.21% of written lines came from AI
-📝 Concise Prompter — average 333 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 44.12% of changed lines were hand-edited
+⚖️ Balanced with AI — 56.4% of written lines came from AI
+📝 Concise Prompter — average 280 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 56.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +120,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:45:27 UTC
+ Last Updated on 26/08/2026 03:16:05 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
