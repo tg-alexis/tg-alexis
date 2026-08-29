@@ -13,15 +13,15 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C903%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 168.3 kB Used in GitHub's Storage 
+> 📦 168.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,759 Contributions in the Year 2026
  > 
@@ -31,6 +31,77 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3758 commits        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+🌆 Daytime                6919 commits        ████████████░░░░░░░░░░░░░   49.52 % 
+🌃 Evening                2741 commits        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+🌙 Night                  553 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2721 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Tuesday                  2437 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Wednesday                2375 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Thursday                 2613 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Friday                   2591 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Saturday                 743 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Sunday                   491 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Abidjan
+
+💬 Programming Languages: 
+TypeScript               11 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.52 % 
+Terraform                3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+YAML                     3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+JSON                     2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Markdown                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 35 mins      ███████████████░░░░░░░░░░   61.98 % 
+Claude Code              10 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   38.02 % 
+
+🐱‍💻 Projects: 
+terraform-katika         6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+gs2e-sirh-frontend       6 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+gs2e-sirh-backend        4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+katika-front-web-client  3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+sirh-frontend            3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+
+💻 Operating System: 
+Mac                      26 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 41 mins (58.67%)
+
+✍️ 630 lines written by AI, 2,539 lines written by hand (19.88% AI-written)
+
+🔤 3,996,372 Input Tokens, 967,058 Output Tokens
+
+💵 $238.22 Estimated AI Cost This Week
+
+🧠 50 AI Sessions, 261 AI Prompts
+
+Opus                     635 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 19.88% of written lines came from AI
+📝 Concise Prompter — average 429 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 85.79% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -48,7 +119,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 03:41:18 UTC
+ Last Updated on 29/08/2026 11:02:06 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
