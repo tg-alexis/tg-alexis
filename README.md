@@ -34,19 +34,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3813 commits        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-🌆 Daytime                7038 commits        ████████████░░░░░░░░░░░░░   49.43 % 
-🌃 Evening                2812 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-🌙 Night                  576 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+🌞 Morning                3813 commits        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+🌆 Daytime                7044 commits        ████████████░░░░░░░░░░░░░   49.43 % 
+🌃 Evening                2817 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+🌙 Night                  576 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2817 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Tuesday                  2478 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Wednesday                2414 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Thursday                 2654 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Friday                   2612 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Monday                   2825 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Tuesday                  2479 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Wednesday                2416 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Thursday                 2654 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Friday                   2612 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 Saturday                 755 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 Sunday                   509 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
@@ -58,48 +58,48 @@ Sunday                   509 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               11 hrs 3 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-Other                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-YAML                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+TypeScript               10 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.56 % 
+YAML                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Other                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 43 mins      ███████████████░░░░░░░░░░   60.58 % 
-VS Code                  9 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   39.42 % 
+Claude Code              13 hrs 33 mins      ███████████████░░░░░░░░░░   60.34 % 
+VS Code                  8 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
 
 🐱‍💻 Projects: 
-gs2e-sirh-backend        8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.83 % 
-gs2e-sirh-frontend       5 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-sirh-frontend            5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-sirh-api                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-terraform-katika         40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+gs2e-sirh-backend        9 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.31 % 
+sirh-frontend            5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+gs2e-sirh-frontend       3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+sirh-api                 3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+terraform-katika         44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 💻 Operating System: 
-Mac                      24 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 46 mins (73.09%)
+⏱ AI Coding Time: 16 hrs 38 mins (74.08%)
 
-✍️ 3,436 lines written by AI, 1,549 lines written by hand (68.93% AI-written)
+✍️ 4,074 lines written by AI, 960 lines written by hand (80.93% AI-written)
 
-🔤 6,943,324 Input Tokens, 1,137,219 Output Tokens
+🔤 5,955,763 Input Tokens, 979,010 Output Tokens
 
-💵 $283.66 Estimated AI Cost This Week
+💵 $252.02 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 238 AI Prompts
+🧠 46 AI Sessions, 203 AI Prompts
 
-Opus                     3,497 lines         █████████████████████████   100.00 % 
+Opus                     4,135 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.93% of written lines came from AI
-📄 Detailed Prompter — average 605 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 39.52% of changed lines were hand-edited
+🤖 AI-Driven — 80.93% of written lines came from AI
+📄 Detailed Prompter — average 577 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 22.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 22:32:20 UTC
+ Last Updated on 04/09/2026 03:56:31 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
