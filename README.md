@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 168.7 kB Used in GitHub's Storage 
+> 📦 168.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,773 Contributions in the Year 2026
  > 
@@ -58,48 +58,48 @@ Sunday                   514 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               10 hrs 3 mins       █████████████░░░░░░░░░░░░   50.78 % 
-YAML                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+TypeScript               10 hrs 6 mins       █████████████░░░░░░░░░░░░   51.68 % 
+YAML                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 10 mins      █████████████████░░░░░░░░   66.45 % 
-VS Code                  6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Claude Code              13 hrs 11 mins      █████████████████░░░░░░░░   67.42 % 
+VS Code                  6 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
 
 🐱‍💻 Projects: 
-gs2e-sirh-backend        7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
-sirh-frontend            5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-sirh-api                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-gs2e-sirh-frontend       1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-terraform-katika         52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+gs2e-sirh-backend        7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.10 % 
+sirh-frontend            5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+sirh-api                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+gs2e-sirh-frontend       1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+rep-fest-api-v2          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 💻 Operating System: 
-Mac                      19 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 32 mins (83.52%)
+⏱ AI Coding Time: 16 hrs 40 mins (85.18%)
 
-✍️ 4,717 lines written by AI, 848 lines written by hand (84.76% AI-written)
+✍️ 4,764 lines written by AI, 842 lines written by hand (84.98% AI-written)
 
-🔤 4,980,916 Input Tokens, 959,688 Output Tokens
+🔤 5,054,636 Input Tokens, 969,147 Output Tokens
 
-💵 $279.57 Estimated AI Cost This Week
+💵 $281.52 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 187 AI Prompts
+🧠 43 AI Sessions, 189 AI Prompts
 
-Opus                     5,063 lines         █████████████████████████   100.00 % 
+Opus                     5,110 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.76% of written lines came from AI
-📄 Detailed Prompter — average 529 characters per prompt
+🤖 AI-Driven — 84.98% of written lines came from AI
+📄 Detailed Prompter — average 524 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 17.16% of changed lines were hand-edited
+🚀 High AI Trust — 16.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 23:44:34 UTC
+ Last Updated on 07/09/2026 03:56:32 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
