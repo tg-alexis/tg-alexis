@@ -58,48 +58,48 @@ Sunday                   533 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               10 hrs 46 mins      ███████████████░░░░░░░░░░   61.25 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+TypeScript               9 hrs 48 mins       ██████████████░░░░░░░░░░░   57.36 % 
+Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 31 mins      ████████████████░░░░░░░░░   65.53 % 
-VS Code                  6 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.47 % 
+Claude Code              9 hrs 33 mins       ██████████████░░░░░░░░░░░   55.87 % 
+VS Code                  7 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.13 % 
 
 🐱‍💻 Projects: 
-gs2e-sirh-backend        12 hrs 16 mins      █████████████████░░░░░░░░   69.83 % 
-sirh-frontend            1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-sirh-api                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-gs2e-sirh-frontend       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-rep-fest-api-v2          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+gs2e-sirh-backend        13 hrs 15 mins      ███████████████████░░░░░░   77.55 % 
+terraform-katika         1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+rep-fest-api-v2          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+republic-festival-backoff38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+gs2e-sirh-frontend       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Mac                      17 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 53 mins (84.68%)
+⏱ AI Coding Time: 13 hrs 6 mins (76.63%)
 
-✍️ 5,355 lines written by AI, 846 lines written by hand (86.36% AI-written)
+✍️ 4,476 lines written by AI, 996 lines written by hand (81.8% AI-written)
 
-🔤 4,632,962 Input Tokens, 969,621 Output Tokens
+🔤 3,560,984 Input Tokens, 878,743 Output Tokens
 
-💵 $211.89 Estimated AI Cost This Week
+💵 $177.78 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 160 AI Prompts
+🧠 30 AI Sessions, 131 AI Prompts
 
-Opus                     5,387 lines         █████████████████████████   100.00 % 
+Opus                     4,512 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.36% of written lines came from AI
-📄 Detailed Prompter — average 825 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 17.12% of changed lines were hand-edited
+🤖 AI-Driven — 81.8% of written lines came from AI
+📄 Detailed Prompter — average 1,218 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 22.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 22:29:54 UTC
+ Last Updated on 10/09/2026 04:05:30 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
