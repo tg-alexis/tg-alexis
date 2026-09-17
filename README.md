@@ -13,7 +13,7 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C947%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C948%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%2056%20mins-blue?style=flat)
 
@@ -58,48 +58,48 @@ Sunday                   566 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.36 % 
-Bash                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-YAML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Markdown                 1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+TypeScript               4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
+Bash                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Markdown                 1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+YAML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 32 mins       █████████████░░░░░░░░░░░░   52.16 % 
-VS Code                  6 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.84 % 
+Claude Code              6 hrs 43 mins       █████████████░░░░░░░░░░░░   52.30 % 
+VS Code                  6 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.70 % 
 
 🐱‍💻 Projects: 
-portfolio-alexis         3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-terraform-katika         3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-gs2e-sirh-backend        2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-backend                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-frontend                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+portfolio-alexis         3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+terraform-katika         2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+gs2e-sirh-backend        1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+backend                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+frontend                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 💻 Operating System: 
-Mac                      14 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 50 mins (61.09%)
+⏱ AI Coding Time: 7 hrs 44 mins (60.2%)
 
-✍️ 2,619 lines written by AI, 885 lines written by hand (74.74% AI-written)
+✍️ 2,306 lines written by AI, 1,190 lines written by hand (65.96% AI-written)
 
-🔤 3,291,594 Input Tokens, 755,797 Output Tokens
+🔤 2,956,027 Input Tokens, 638,235 Output Tokens
 
-💵 $126.92 Estimated AI Cost This Week
+💵 $102.54 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 108 AI Prompts
+🧠 23 AI Sessions, 101 AI Prompts
 
-Opus                     2,666 lines         █████████████████████████   100.00 % 
+Opus                     2,344 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.74% of written lines came from AI
-📚 Verbose Prompter — average 1,548 characters per prompt
+⚖️ Balanced with AI — 65.96% of written lines came from AI
+📄 Detailed Prompter — average 1,148 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 32.42% of changed lines were hand-edited
+🚀 High AI Trust — 45.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 22:53:21 UTC
+ Last Updated on 17/09/2026 04:22:03 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
