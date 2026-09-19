@@ -34,21 +34,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4227 commits        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌆 Daytime                7773 commits        ████████████░░░░░░░░░░░░░   49.45 % 
-🌃 Evening                3055 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-🌙 Night                  665 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+🌞 Morning                4472 commits        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+🌆 Daytime                8117 commits        ████████████░░░░░░░░░░░░░   49.46 % 
+🌃 Evening                3146 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌙 Night                  676 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3215 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Tuesday                  2676 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                2574 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Thursday                 2977 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Friday                   2894 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Saturday                 802 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Sunday                   582 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Monday                   3354 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Tuesday                  2770 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Wednesday                2676 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Thursday                 3186 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Friday                   3031 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Saturday                 811 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Sunday                   583 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 
 
@@ -58,48 +58,47 @@ Sunday                   582 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
-Bash                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-JSON                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Terraform                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+TypeScript               1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Markdown                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Bash                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+HCL                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 33 mins       █████████████░░░░░░░░░░░░   53.78 % 
-VS Code                  5 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.22 % 
+VS Code                  5 hrs 9 mins        ███████████████░░░░░░░░░░   60.53 % 
+Claude Code              3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.47 % 
 
 🐱‍💻 Projects: 
-portfolio-alexis         3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
-terraform-katika         2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-backend                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-gs2e-sirh-backend        1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-frontend                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+portfolio-alexis         3 hrs 39 mins       ███████████░░░░░░░░░░░░░░   42.88 % 
+terraform-katika         2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+portal                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+front-end                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+frontend                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 💻 Operating System: 
-Mac                      12 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 34 mins (62.2%)
+⏱ AI Coding Time: 3 hrs 50 mins (44.96%)
 
-✍️ 2,274 lines written by AI, 1,296 lines written by hand (63.7% AI-written)
+✍️ 589 lines written by AI, 1,291 lines written by hand (31.33% AI-written)
 
-🔤 2,773,815 Input Tokens, 627,783 Output Tokens
+🔤 601,618 Input Tokens, 236,756 Output Tokens
 
-💵 $101.14 Estimated AI Cost This Week
+💵 $46.54 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 91 AI Prompts
+🧠 7 AI Sessions, 38 AI Prompts
 
-Opus                     2,301 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     589 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.7% of written lines came from AI
-📄 Detailed Prompter — average 1,264 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 45.82% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 31.33% of written lines came from AI
+📄 Detailed Prompter — average 801 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 76.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +118,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 00:07:34 UTC
+ Last Updated on 19/09/2026 07:18:24 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
