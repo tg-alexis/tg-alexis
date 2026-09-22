@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 169.1 kB Used in GitHub's Storage 
+> 📦 169.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1,987 Contributions in the Year 2026
  > 
@@ -58,47 +58,47 @@ Sunday                   609 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Bash                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-HCL                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Bash                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Terraform                1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+HCL                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 57 mins       ███████████████░░░░░░░░░░   58.90 % 
-Claude Code              4 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.10 % 
+VS Code                  5 hrs 41 mins       ██████████████████░░░░░░░   70.59 % 
+Claude Code              2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 
 🐱‍💻 Projects: 
-portfolio-alexis         3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.19 % 
-terraform-katika         2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-front-end                2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-portal                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-frontend                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+front-end                2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
+terraform-katika         2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
+devops                   1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+portal                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+sirh-frontend            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 💻 Operating System: 
-Mac                      10 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 49 mins (47.67%)
+⏱ AI Coding Time: 3 hrs 14 mins (40.33%)
 
-✍️ 893 lines written by AI, 1,319 lines written by hand (40.37% AI-written)
+✍️ 304 lines written by AI, 1,133 lines written by hand (21.16% AI-written)
 
-🔤 848,591 Input Tokens, 285,882 Output Tokens
+🔤 710,099 Input Tokens, 151,597 Output Tokens
 
-💵 $60.68 Estimated AI Cost This Week
+💵 $49.01 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 43 AI Prompts
+🧠 6 AI Sessions, 19 AI Prompts
 
-Opus                     893 lines           █████████████████████████   100.00 % 
+Opus                     304 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.37% of written lines came from AI
-📄 Detailed Prompter — average 728 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 69.06% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.16% of written lines came from AI
+📝 Concise Prompter — average 370 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 84.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 23:11:43 UTC
+ Last Updated on 22/09/2026 04:18:10 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
