@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 169.5 kB Used in GitHub's Storage 
+> 📦 169.6 kB Used in GitHub's Storage 
  > 
 > 🏆 2,089 Contributions in the Year 2026
  > 
@@ -58,48 +58,48 @@ Sunday                   646 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               9 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.01 % 
-Bash                     4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-YAML                     4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-JSON                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+TypeScript               10 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Bash                     5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+YAML                     4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+JSON                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Other                    2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 14 mins      ████████████████░░░░░░░░░   62.71 % 
-VS Code                  10 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.29 % 
+Claude Code              19 hrs 38 mins      ███████████████░░░░░░░░░░   61.78 % 
+VS Code                  12 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
 
 🐱‍💻 Projects: 
-yo-ticket-api            10 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-frontend-maestro         5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-rep-fest-api-v2          3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-devops                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-yo-ticket-front-end      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+yo-ticket-api            10 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.00 % 
+frontend-maestro         5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+rep-fest-api-v2          4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+gs2e-sirh-backend        2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+terraform-katika         1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 Operating System: 
-Mac                      27 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 55 mins (79.79%)
+⏱ AI Coding Time: 24 hrs 35 mins (77.37%)
 
-✍️ 10,765 lines written by AI, 854 lines written by hand (92.65% AI-written)
+✍️ 18,156 lines written by AI, 915 lines written by hand (95.2% AI-written)
 
-🔤 6,470,792 Input Tokens, 1,514,199 Output Tokens
+🔤 9,586,813 Input Tokens, 1,989,430 Output Tokens
 
-💵 $251.95 Estimated AI Cost This Week
+💵 $289.87 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 235 AI Prompts
+🧠 32 AI Sessions, 254 AI Prompts
 
-Opus                     11,291 lines        █████████████████████████   100.00 % 
+Opus                     18,682 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.65% of written lines came from AI
-📝 Concise Prompter — average 197 characters per prompt
+🤖 AI-Driven — 95.2% of written lines came from AI
+📝 Concise Prompter — average 266 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 38.74% of changed lines were hand-edited
+🚀 High AI Trust — 28.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 20:36:28 UTC
+ Last Updated on 29/09/2026 01:46:08 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
