@@ -13,17 +13,17 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C997%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C002%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-349%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 170.0 kB Used in GitHub's Storage 
+> 📦 170.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,190 Contributions in the Year 2026
+> 🏆 2,192 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,19 +34,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6189 commits        ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+🌞 Morning                6189 commits        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
 🌆 Daytime                10765 commits       ████████████░░░░░░░░░░░░░   48.97 % 
-🌃 Evening                4106 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+🌃 Evening                4109 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 🌙 Night                  921 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4499 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Monday                   4502 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
 Tuesday                  3629 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                3560 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                3560 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 Thursday                 4641 commits        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Friday                   4037 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Friday                   4037 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
 Saturday                 951 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 Sunday                   664 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
@@ -58,48 +58,48 @@ Sunday                   664 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-YAML                     4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Bash                     3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Terraform                1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+TypeScript               4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+YAML                     4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Bash                     3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Terraform                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 47 mins      ██████████████░░░░░░░░░░░   54.04 % 
-VS Code                  10 hrs 1 min        ███████████░░░░░░░░░░░░░░   45.96 % 
+Claude Code              10 hrs 30 mins      █████████████░░░░░░░░░░░░   51.76 % 
+VS Code                  9 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.24 % 
 
 🐱‍💻 Projects: 
-rep-fest-api-v2          4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-terraform-katika         3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-devops                   3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-youyou-o-plus-backend    2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-katika-backoffice        1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+rep-fest-api-v2          3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+devops                   3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+youyou-o-plus-backend    3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+terraform-katika         2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+gs2e-sirh-backend        2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 
 💻 Operating System: 
-Mac                      21 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 59 mins (64.09%)
+⏱ AI Coding Time: 12 hrs 20 mins (60.73%)
 
-✍️ 13,062 lines written by AI, 553 lines written by hand (95.94% AI-written)
+✍️ 6,986 lines written by AI, 506 lines written by hand (93.25% AI-written)
 
-🔤 8,745,404 Input Tokens, 1,444,846 Output Tokens
+🔤 7,632,101 Input Tokens, 1,180,754 Output Tokens
 
-💵 $124.85 Estimated AI Cost This Week
+💵 $100.89 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 145 AI Prompts
+🧠 32 AI Sessions, 165 AI Prompts
 
-Opus                     13,170 lines        █████████████████████████   100.00 % 
+Opus                     7,050 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.94% of written lines came from AI
-📄 Detailed Prompter — average 1,154 characters per prompt
+🤖 AI-Driven — 93.25% of written lines came from AI
+📄 Detailed Prompter — average 1,398 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.45% of changed lines were hand-edited
+🚀 High AI Trust — 11.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 22:32:41 UTC
+ Last Updated on 06/10/2026 05:52:01 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
