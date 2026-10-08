@@ -13,7 +13,7 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C005%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C007%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-349%20hrs%2039%20mins-blue?style=flat)
 
@@ -23,7 +23,7 @@
 
 > 📦 170.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,203 Contributions in the Year 2026
+> 🏆 2,204 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,9 +34,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7027 commits        ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-🌆 Daytime                11969 commits       ████████████░░░░░░░░░░░░░   48.94 % 
-🌃 Evening                4490 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+🌞 Morning                7029 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+🌆 Daytime                11969 commits       ████████████░░░░░░░░░░░░░   48.93 % 
+🌃 Evening                4491 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
 🌙 Night                  971 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -44,8 +44,8 @@
 ```text
 Monday                   4997 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
 Tuesday                  3991 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                3922 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Thursday                 5313 commits        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Wednesday                3923 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Thursday                 5315 commits        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
 Friday                   4522 commits        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
 Saturday                 1027 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 Sunday                   685 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
@@ -58,48 +58,48 @@ Sunday                   685 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Bash                     4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-YAML                     2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Prisma                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Bash                     4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+TypeScript               4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+YAML                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Prisma                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 43 mins       ██████████████░░░░░░░░░░░   55.04 % 
-Claude Code              7 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
+VS Code                  9 hrs 15 mins       ████████████████░░░░░░░░░   64.82 % 
+Claude Code              5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.18 % 
 
 🐱‍💻 Projects: 
-rep-fest-api-v2          4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-youyou-o-plus-backend    3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-gs2e-sirh-backend        2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-terraform-katika         1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-katika-bridge-api        1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+rep-fest-api-v2          3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+gs2e-sirh-backend        2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+youyou-o-plus-backend    2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+backend                  2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+katika-bridge-api        1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 💻 Operating System: 
-Mac                      17 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 38 mins (54.58%)
+⏱ AI Coding Time: 6 hrs 20 mins (44.32%)
 
-✍️ 5,753 lines written by AI, 1,086 lines written by hand (84.12% AI-written)
+✍️ 3,768 lines written by AI, 1,123 lines written by hand (77.04% AI-written)
 
-🔤 6,976,753 Input Tokens, 1,044,532 Output Tokens
+🔤 5,094,217 Input Tokens, 660,486 Output Tokens
 
-💵 $89.37 Estimated AI Cost This Week
+💵 $59.71 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 139 AI Prompts
+🧠 22 AI Sessions, 99 AI Prompts
 
-Opus                     5,833 lines         █████████████████████████   100.00 % 
+Opus                     3,839 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.12% of written lines came from AI
-📚 Verbose Prompter — average 1,638 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 26.79% of changed lines were hand-edited
+🤖 AI-Driven — 77.04% of written lines came from AI
+📚 Verbose Prompter — average 2,231 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 36.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 00:15:12 UTC
+ Last Updated on 08/10/2026 08:47:13 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
