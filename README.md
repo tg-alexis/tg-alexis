@@ -58,48 +58,48 @@ Sunday                   685 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Bash                     3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Markdown                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-YAML                     2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-HCL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TypeScript               3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Bash                     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Markdown                 2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+YAML                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 2 mins       ███████████████████░░░░░░   77.35 % 
-Claude Code              3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+VS Code                  11 hrs 44 mins      ███████████████████░░░░░░   76.94 % 
+Claude Code              3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
 
 🐱‍💻 Projects: 
-backend                  4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-terraform-katika         4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-bnm-backoffice           2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-youyou-o-plus-backend    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-frontend                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+terraform-katika         4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
+backend                  4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+bnm-backoffice           2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+frontend                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+youyou-o-plus-backend    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 💻 Operating System: 
-Mac                      16 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (26.68%)
+⏱ AI Coding Time: 3 hrs 58 mins (26.08%)
 
-✍️ 3,654 lines written by AI, 3,083 lines written by hand (54.24% AI-written)
+✍️ 1,702 lines written by AI, 2,387 lines written by hand (41.62% AI-written)
 
-🔤 3,715,774 Input Tokens, 674,880 Output Tokens
+🔤 2,564,669 Input Tokens, 467,918 Output Tokens
 
-💵 $57.63 Estimated AI Cost This Week
+💵 $47.08 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 79 AI Prompts
+🧠 13 AI Sessions, 69 AI Prompts
 
-Opus                     5,683 lines         █████████████████████████   100.00 % 
+Opus                     3,699 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.24% of written lines came from AI
-📄 Detailed Prompter — average 1,466 characters per prompt
+⚖️ Balanced with AI — 41.62% of written lines came from AI
+📚 Verbose Prompter — average 1,734 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 46.72% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 01:09:20 UTC
+ Last Updated on 14/10/2026 07:27:33 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
