@@ -13,9 +13,9 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C033%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C035%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-362%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -31,77 +31,6 @@
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7164 commits        ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-🌆 Daytime                12199 commits       ████████████░░░░░░░░░░░░░   49.01 % 
-🌃 Evening                4533 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-🌙 Night                  995 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5074 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Tuesday                  4074 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Wednesday                3979 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Thursday                 5380 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Friday                   4628 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Saturday                 1054 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Sunday                   702 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Abidjan
-
-💬 Programming Languages: 
-TypeScript               7 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
-Bash                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-YAML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 15 mins      ██████████████░░░░░░░░░░░   56.73 % 
-Claude Code              7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.27 % 
-
-🐱‍💻 Projects: 
-frontend                 8 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.68 % 
-backend                  5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-terraform-katika         2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-gs2e-sirh-backend        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-gs2e-sirh-frontend       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-
-💻 Operating System: 
-Mac                      18 hrs 4 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs (55.39%)
-
-✍️ 3,945 lines written by AI, 3,780 lines written by hand (51.07% AI-written)
-
-🔤 5,462,871 Input Tokens, 1,301,282 Output Tokens
-
-💵 $163.80 Estimated AI Cost This Week
-
-🧠 22 AI Sessions, 101 AI Prompts
-
-Opus                     3,991 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.07% of written lines came from AI
-📝 Concise Prompter — average 390 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 82.13% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -119,7 +48,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 00:00:24 UTC
+ Last Updated on 18/10/2026 03:59:17 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
