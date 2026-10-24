@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 170.7 kB Used in GitHub's Storage 
+> 📦 170.6 kB Used in GitHub's Storage 
  > 
 > 🏆 2,349 Contributions in the Year 2026
  > 
@@ -58,48 +58,48 @@ Sunday                   748 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Bash                     3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-TypeScript               2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-YAML                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-HCL                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+TypeScript               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Bash                     3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+YAML                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Markdown                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 30 mins       █████████████░░░░░░░░░░░░   51.97 % 
-Claude Code              7 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.03 % 
+VS Code                  7 hrs 29 mins       █████████████░░░░░░░░░░░░   50.21 % 
+Claude Code              7 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.79 % 
 
 🐱‍💻 Projects: 
-backend                  5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
-terraform-katika         3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-sima-api                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-frontend                 1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-gs2e-sirh-backend        57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+sima-api                 3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+backend                  3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+terraform-katika         1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+sima-frontend            1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+frontend                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 💻 Operating System: 
-Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 38 mins (58.9%)
+⏱ AI Coding Time: 9 hrs 14 mins (61.92%)
 
-✍️ 9,041 lines written by AI, 4,940 lines written by hand (64.67% AI-written)
+✍️ 7,384 lines written by AI, 4,717 lines written by hand (61.02% AI-written)
 
-🔤 9,053,054 Input Tokens, 1,193,524 Output Tokens
+🔤 8,302,562 Input Tokens, 1,223,877 Output Tokens
 
-💵 $148.18 Estimated AI Cost This Week
+💵 $154.58 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 82 AI Prompts
+🧠 23 AI Sessions, 85 AI Prompts
 
-Opus                     9,049 lines         █████████████████████████   100.00 % 
+Opus                     7,547 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.67% of written lines came from AI
-📝 Concise Prompter — average 112 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 37.58% of changed lines were hand-edited
+⚖️ Balanced with AI — 61.02% of written lines came from AI
+📝 Concise Prompter — average 117 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 40.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 23:08:14 UTC
+ Last Updated on 24/10/2026 04:08:34 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
