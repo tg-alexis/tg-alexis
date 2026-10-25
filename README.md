@@ -13,9 +13,9 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C047%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C047%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,48 +58,47 @@ Sunday                   763 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Bash                     3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-YAML                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Markdown                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Bash                     3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+YAML                     2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+TypeScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 29 mins       █████████████░░░░░░░░░░░░   50.21 % 
-Claude Code              7 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.79 % 
+VS Code                  8 hrs 7 mins        ███████████████░░░░░░░░░░   59.81 % 
+Claude Code              5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
 
 🐱‍💻 Projects: 
-sima-api                 3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-backend                  3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-terraform-katika         1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-sima-frontend            1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-frontend                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+sima-api                 3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+terraform-katika         1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+sima-frontend            1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+sima-pass-generator      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+frontend                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 💻 Operating System: 
-Mac                      14 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 14 mins (61.92%)
+⏱ AI Coding Time: 7 hrs 5 mins (52.15%)
 
-✍️ 7,384 lines written by AI, 4,717 lines written by hand (61.02% AI-written)
+✍️ 4,876 lines written by AI, 4,900 lines written by hand (49.88% AI-written)
 
-🔤 8,302,562 Input Tokens, 1,223,877 Output Tokens
+🔤 7,019,183 Input Tokens, 889,301 Output Tokens
 
-💵 $154.58 Estimated AI Cost This Week
+💵 $105.80 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 85 AI Prompts
+🧠 22 AI Sessions, 82 AI Prompts
 
-Opus                     7,547 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     5,038 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.02% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
+⚖️ Balanced with AI — 49.88% of written lines came from AI
+📝 Concise Prompter — average 104 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 40.51% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 51.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +118,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 00:16:23 UTC
+ Last Updated on 25/10/2026 07:35:05 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
