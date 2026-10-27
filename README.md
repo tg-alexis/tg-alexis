@@ -58,47 +58,47 @@ Sunday                   787 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Bash                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-YAML                     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Bash                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+YAML                     2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+TypeScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+JSON                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+HCL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       ████████████████░░░░░░░░░   65.93 % 
-Claude Code              4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.07 % 
+VS Code                  8 hrs 8 mins        ███████████████████░░░░░░   74.35 % 
+Claude Code              2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
 
 🐱‍💻 Projects: 
-sima-api                 3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-sima-frontend            2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-terraform-katika         1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-sima-pass-generator      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-sima-admin               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+sima-api                 3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+sima-frontend            2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+sima-pass-generator      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+terraform-katika         1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+sima-admin               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 
 💻 Operating System: 
-Mac                      13 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 20 mins (45.63%)
+⏱ AI Coding Time: 4 hrs 15 mins (38.92%)
 
-✍️ 3,675 lines written by AI, 4,925 lines written by hand (42.73% AI-written)
+✍️ 999 lines written by AI, 4,644 lines written by hand (17.7% AI-written)
 
-🔤 4,028,477 Input Tokens, 655,649 Output Tokens
+🔤 1,895,846 Input Tokens, 441,170 Output Tokens
 
-💵 $62.06 Estimated AI Cost This Week
+💵 $31.57 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 76 AI Prompts
+🧠 18 AI Sessions, 61 AI Prompts
 
-Opus                     3,837 lines         █████████████████████████   100.00 % 
+Opus                     1,182 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 42.73% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 60.3% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 17.7% of written lines came from AI
+📝 Concise Prompter — average 106 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 81.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 23:49:44 UTC
+ Last Updated on 27/10/2026 04:33:29 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
