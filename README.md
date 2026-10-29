@@ -13,9 +13,9 @@
 ## Current Languages
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C050%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C051%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-373%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,47 +58,47 @@ Sunday                   811 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-YAML                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Bash                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-TypeScript               1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-JSON                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-HCL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+YAML                     2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+TypeScript               2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Bash                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+JSON                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+HCL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 43 mins       ██████████████████░░░░░░░   72.20 % 
-Claude Code              3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+VS Code                  8 hrs 12 mins       ██████████████████░░░░░░░   71.58 % 
+Claude Code              3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
 
 🐱‍💻 Projects: 
-sima-api                 3 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
-sima-frontend            2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-terraform-katika         1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-sima-admin               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-sima-pass-generator      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+sima-api                 2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+sima-frontend            2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+sima-admin               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+bnm-backoffice           1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+sima-pass-generator      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 
 💻 Operating System: 
-Mac                      12 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (43.02%)
+⏱ AI Coding Time: 4 hrs 58 mins (43.35%)
 
-✍️ 1,118 lines written by AI, 4,646 lines written by hand (19.4% AI-written)
+✍️ 1,774 lines written by AI, 3,167 lines written by hand (35.9% AI-written)
 
-🔤 2,111,390 Input Tokens, 476,591 Output Tokens
+🔤 2,137,446 Input Tokens, 459,065 Output Tokens
 
-💵 $34.12 Estimated AI Cost This Week
+💵 $31.65 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 66 AI Prompts
+🧠 21 AI Sessions, 73 AI Prompts
 
-Opus                     1,339 lines         █████████████████████████   100.00 % 
+Opus                     2,317 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.4% of written lines came from AI
-📝 Concise Prompter — average 123 characters per prompt
+⚖️ Balanced with AI — 35.9% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 79.83% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:33:14 UTC
+ Last Updated on 29/10/2026 05:14:55 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
