@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 171.0 kB Used in GitHub's Storage 
+> 📦 171.1 kB Used in GitHub's Storage 
  > 
 > 🏆 2,426 Contributions in the Year 2026
  > 
@@ -34,21 +34,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7470 commits        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-🌆 Daytime                13082 commits       ████████████░░░░░░░░░░░░░   49.29 % 
-🌃 Evening                4851 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌙 Night                  1139 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+🌞 Morning                7513 commits        ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+🌆 Daytime                13179 commits       ████████████░░░░░░░░░░░░░   49.23 % 
+🌃 Evening                4910 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+🌙 Night                  1169 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5616 commits        █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Tuesday                  4274 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Wednesday                4147 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Thursday                 5543 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Friday                   4918 commits        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Saturday                 1147 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Sunday                   897 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Monday                   5704 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Tuesday                  4310 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Wednesday                4157 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Thursday                 5563 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Friday                   4955 commits        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Saturday                 1154 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Sunday                   928 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 ```
 
 
@@ -58,47 +58,47 @@ Sunday                   897 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Bash                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Git Config               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+TypeScript               1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+JSON                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Bash                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 54 mins       █████████████████░░░░░░░░   66.37 % 
-Claude Code              2 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
+VS Code                  4 hrs 28 mins       ████████████████░░░░░░░░░   63.51 % 
+Claude Code              2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
 
 🐱‍💻 Projects: 
-sima-api                 1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-sima-frontend            1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-bnm-backoffice           1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-sima-pass-generator      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-sima-mobile-apps         54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+terraform-katika         1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+bnm-backoffice           1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+sima-frontend            59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+sima-mobile-apps         54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+yo-ticket-api            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 💻 Operating System: 
-Mac                      8 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 42 mins (52.79%)
+⏱ AI Coding Time: 3 hrs 53 mins (55.03%)
 
-✍️ 1,923 lines written by AI, 315 lines written by hand (85.92% AI-written)
+✍️ 2,198 lines written by AI, 306 lines written by hand (87.78% AI-written)
 
-🔤 2,002,218 Input Tokens, 434,279 Output Tokens
+🔤 1,814,926 Input Tokens, 259,796 Output Tokens
 
-💵 $30.89 Estimated AI Cost This Week
+💵 $26.46 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 63 AI Prompts
+🧠 16 AI Sessions, 45 AI Prompts
 
-Opus                     2,546 lines         █████████████████████████   100.00 % 
+Opus                     2,756 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.92% of written lines came from AI
-📝 Concise Prompter — average 128 characters per prompt
+🤖 AI-Driven — 87.78% of written lines came from AI
+📝 Concise Prompter — average 134 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 26.37% of changed lines were hand-edited
+🚀 High AI Trust — 24.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tg-alexis/tg-alexis/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 23:41:42 UTC
+ Last Updated on 31/10/2026 05:01:51 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
