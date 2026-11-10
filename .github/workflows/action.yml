@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: tg-alexis/waka-readme-stats@master
         with:
